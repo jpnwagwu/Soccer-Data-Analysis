@@ -2,7 +2,7 @@
 
 Link to Dataset: https://www.kaggle.com/datasets/hugomathien/soccer
 
-For this final project, I conducted my own data analysis and created a report that documents my findings. 
+For this project, I conducted my own data analysis and created a report that documents my findings. 
 
 I started by taking a look at the dataset and brainstorming what questions one could answer using it. 
 
